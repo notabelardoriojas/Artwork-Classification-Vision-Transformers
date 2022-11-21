@@ -9,6 +9,12 @@ Source: https://keras.io/examples/vision/vit_small_ds/
 
 Follow along with the notebook: Painting_Classification_Vision_Transformers.ipynb
 
+![patches](/img/patches_0.png)
+![](/img/patches_1.png)
+![](/img/patches_2.png)
+![](/img/patches_3.png)
+![](/img/patches_4.png)
+
 | n_observations     | 7,829     |
 |--------------------|-----------|
 | n_classes          | 5         |
