@@ -27,3 +27,5 @@ Follow along with the notebook: Painting_Classification_Vision_Transformers.ipyn
 | NUM_HEADS          | 4         |
 | train_accuracy     | 88.0%     |
 | test_accuracy      | 82.7%     |
+
+Thanks for reading!
